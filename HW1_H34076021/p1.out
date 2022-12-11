@@ -1,0 +1,7 @@
+(0,0,1) becomes (0,0,1) in the transpose
+(0,2,1) becomes (2,0,1) in the transpose
+(1,1,2) becomes (1,1,2) in the transpose
+(2,0,4) becomes (0,2,4) in the transpose
+(2,2,3) becomes (2,2,3) in the transpose
+800ns
+1200ns
