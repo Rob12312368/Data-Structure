@@ -1,0 +1,1 @@
+This code is a binary search tree(BST) implementation. We are required to write functions of inserting, deleting, searching nodes and printing the tree in preorder, inorder and post order. For further information, please refer to the pdf file in this directory.
