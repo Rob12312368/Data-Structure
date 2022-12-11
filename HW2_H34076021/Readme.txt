@@ -1,1 +1,1 @@
-Instead of using recursive, this program aims to find a path in a maze using a stack. For further information, please refer to the pdf file in this directory.
+Instead of using recursive, this program aims to find a path in a maze using a stack. If there is a path to the exit, we have to print it out. If there is not, we still have to tell the user there is no solution. For further information, please refer to the pdf file in this directory.
