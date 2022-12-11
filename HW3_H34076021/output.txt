@@ -1,0 +1,78 @@
+File name: sample.txt
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Insert:
+Number 10 is inserted.
+Number 4 is inserted.
+Number 2 is inserted.
+Number 24 is inserted.
+Number 8 is inserted.
+Number 37 is inserted.
+Error! Number 10 exists.
+Number 14 is inserted.
+Number 18 is inserted.
+Error! Number 4 exists.
+Number 6 is inserted.
+Number 3 is inserted.
+Number 1 is inserted.
+Error! Number 24 exists.
+Number 9 is inserted.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Delete:
+Number 4 is deleted.
+Number 2 is deleted.
+Number 5 is not exist.
+Number 8 is deleted.
+Number 19 is not exist.
+Number 14 is deleted.
+Number 16 is not exist.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Search:
+Bingo! 10 is found.
+Sorry! 4 is not found.
+Bingo! 24 is found.
+Bingo! 18 is found.
+Bingo! 37 is found.
+Sorry! 5 is not found.
+Sorry! 2 is not found.
+Bingo! 3 is found.
+Bingo! 1 is found.
+Sorry! 14 is not found.
+Bingo! 9 is found.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print:
+The tree in prefix order: 10 6 3 1 9 24 18 37 
+The tree in infix order: 1 3 6 9 10 18 24 37 
+The tree in post order: 1 3 9 6 18 37 24 10 
+The tree in level order: 10 6 24 3 9 18 37 1 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Exit
