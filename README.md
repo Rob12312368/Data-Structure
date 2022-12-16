@@ -1,2 +1,2 @@
 # Data-Structure
-This direcotry contains all the code I have written until now for Data Structure. I have implemented stack, queue, binary search tree using C++. Homework other than implementing basic data structure includes "Rat in a Maze" and "Matrix Transpose".
+This direcotry contains all the code I have written until now for Data Structure. I have implemented stack, queue, binary search tree using C++. Homework other than implementing basic data structure includes "Rat in a Maze", "Matrix Transpose", Prim's algorithm, and Dijkstra. The code may be a little bit messy, as I try to understand the basic concepts and implement them without any help of online sample code or seudo code. It makes coding much more fun and challenging.
