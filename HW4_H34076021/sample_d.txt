@@ -1,0 +1,11 @@
+9
+b a 4
+a c 2
+f c 9
+d b 15
+d f 5
+d g 23
+e b 17
+e g 11
+f g 13
+d
